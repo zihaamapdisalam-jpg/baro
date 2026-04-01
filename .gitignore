@@ -1,0 +1,4 @@
+#waa comment
+d.txt
+*.txt
+!e.txt
